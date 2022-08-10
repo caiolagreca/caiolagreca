@@ -1,16 +1,40 @@
-### Hi there 👋
+### Hello World!
 
-<!--
-**caiolagreca/caiolagreca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Muito prazer, sou o Caio! <strong>Desenvolvedor Front-end</strong>. 😄
+</p>
+<p align="left">
+  👯 Pronomes: <strong>Ele/Dele.</strong>
+</p>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+ <a href="https://github.com/caiolagreca">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolagreca&layout=compact&langs_count=7&theme=onedark"/>
+   
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolagreca&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
+
+  
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>        
+</div>
+
+##
+
+<p align="left">
+  📫 Você pode falar comigo por aqui: ⤵️
+</p>
+<div> 
+   <a href="https://www.linkedin.com/in/caio-lagreca-235b57190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:caiomiranda701@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ 
+  ![Snake animation](https://github.com/caiolagreca/caiolagreca/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
