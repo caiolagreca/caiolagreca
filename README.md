@@ -1,7 +1,7 @@
 ### Hello World!
 
 <p align="left"> 
-  Muito prazer, sou o Caio! <strong>Desenvolvedor Front-end</strong>. 😄
+  Muito prazer, sou o Caio! <strong>Desenvolvedor Fullstack</strong>. 😄
 </p>
 <p align="left">
   👯 Pronomes: <strong>Ele/Dele.</strong>
