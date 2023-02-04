@@ -3,9 +3,6 @@
 <p align="left"> 
   You're welcome, I'm Caio! <strong>Fullstack Developer</strong>. 😄
 </p>
-<p align="left">
-  👯 Pronomes: <strong>Ele/Dele.</strong>
-</p>
 
 ##
 
