@@ -1,7 +1,7 @@
 ### Hello World!
 
 <p align="left"> 
-  Muito prazer, sou o Caio! <strong>Desenvolvedor Fullstack</strong>. 😄
+  You're welcome, I'm Caio! <strong>Fullstack Developer</strong>. 😄
 </p>
 <p align="left">
   👯 Pronomes: <strong>Ele/Dele.</strong>
@@ -28,7 +28,7 @@
 ##
 
 <p align="left">
-  📫 Você pode falar comigo por aqui: ⤵️
+  📫 Talk to me: ⤵️
 </p>
 <div> 
    <a href="https://www.linkedin.com/in/caio-lagreca-235b57190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
