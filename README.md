@@ -1,7 +1,7 @@
 ### Hello World!
 
 <p align="left"> 
-  You're welcome, I'm Caio! <strong>Fullstack Developer</strong>. 😄
+  Welcome, I'm Caio! <strong>Fullstack Developer</strong>. 😄
 </p>
 
 ##
