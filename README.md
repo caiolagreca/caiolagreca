@@ -1,7 +1,7 @@
 ### Hello World!
 
 <p align="left"> 
-  Welcome, I'm Caio! <strong>Fullstack Developer</strong>. 😄
+  Welcome, I'm Caio! An innovative <strong> Mobile and Fullstack Developer</strong>, with experience in building scalable and high-performance applications. I help companies improve system performance and user satisfaction through reliable solutions and robust backend services. 🚀
 </p>
 
 ##
