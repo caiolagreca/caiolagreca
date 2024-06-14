@@ -1,7 +1,8 @@
-### Hello World!
+### Hello World! 😄
 
 <p align="left"> 
-  Welcome, I'm Caio! An innovative <strong> Mobile and Fullstack Developer</strong>, with experience in building scalable and high-performance applications. I help companies improve system performance and user satisfaction through reliable solutions and robust backend services. 🚀
+  Welcome, I'm Caio! An innovative <strong> Mobile and Fullstack Developer</strong>, with experience in building scalable and high-performance applications.
+  I help companies improve system performance and user satisfaction through reliable solutions and robust backend services. 🚀
 </p>
 
 ##
@@ -15,6 +16,7 @@
 
   
  <div style="display: inline_block"><br>
+   <img align="center" alt="Caio-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typesccript-plain.svg">
    <img align="center" alt="Caio-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
